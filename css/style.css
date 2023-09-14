@@ -43,9 +43,21 @@ a:hover {
   color: var(--hotmag);
   text-decoration: none;
 }
+
+.section-plum {
+    background-color: var(--plum);
+}
+
+.gradient {
+    background: linear-gradient(90deg, rgba(255,23,228,1) 0%, rgba(134,251,251,1) 100%);
+    height: 2px;
+}
+
 /* intro styles */
 #intro {
-  padding-bottom: 10rem;
+  padding: 4rem 1rem 10rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 #intro p {
@@ -132,6 +144,7 @@ nav [class*="fa-"]:hover {
   color: white;
   padding: 0.5rem;
   border-radius: 5px;
+  font-family: var(--mono);
 }
 
 .button:hover {
@@ -153,6 +166,7 @@ nav [class*="fa-"]:hover {
 footer {
   /*  text-align is inherited  */
   text-align: center;
+  padding: 4rem 0;
 }
 
 footer h2 {
@@ -172,6 +186,7 @@ footer ul {
   font-size: 3rem;
 }
 
-.footer p {
+
+footer p {
   flex-basis: 100%;
 }
