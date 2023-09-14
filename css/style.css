@@ -127,6 +127,7 @@ nav [class*="fa-"]:hover {
   color: var(--magenta);
 }
 .button {
+  text-decoration: none;
   background-color: var(--magenta);
   color: white;
   padding: 0.5rem;
