@@ -10,8 +10,12 @@ Frontend Masters CSS and HTML course with a focus on high quality HTML element c
 
 ## To open the project in your browser
 
-Go into the root folder and in the command line type:
+Go download and run this project in your browser put the following into your terminal:
 
 ``` 
+git clone https://github.com/veritywong/portfolio-project.git
+
+cd portfolio-project
+
 open index.html
-````
+`````
