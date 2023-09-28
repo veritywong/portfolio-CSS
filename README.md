@@ -1,6 +1,6 @@
 # Portfolio Project
 
-Focus on high quality HTML element choice, learning the fundamentals of CSS and create an engaging portfolio website.
+Frontend Masters CSS and HTML course with a focus on high quality HTML element choice and learning the fundamentals of CSS to create an engaging portfolio website.
 
 
 ## Project screenshots
@@ -10,8 +10,8 @@ Focus on high quality HTML element choice, learning the fundamentals of CSS and 
 
 ## To open the project in your browser
 
-Go into the root folder and in the commande line type:
+Go into the root folder and in the command line type:
 
 ``` 
 open index.html
-```
+````
